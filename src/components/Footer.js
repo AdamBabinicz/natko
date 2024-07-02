@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Banner from "./Banner";
 import Logo from "./Logo";
-import { FaFacebookF, FaTwitter, FaGoogle, FaYoutube } from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaGoogle, FaYoutube } from "react-icons/fa";
 
 const Section = styled.section`
   min-height: 100vh;
@@ -118,18 +118,18 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="https://facebook.com"
+              href="https://www.facebook.com/ewa.kucharska.5439"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaFacebookF />
             </a>
             <a
-              href="https://twitter.com"
+              href="https://www.instagram.com/ewa1989"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaTwitter />
+              <FaInstagram />
             </a>
             <a
               href="https://google.com"
