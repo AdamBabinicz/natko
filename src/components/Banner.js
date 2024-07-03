@@ -154,7 +154,7 @@ const Banner = () => {
         isOpen={isOpen}
         onClose={closeModal}
         header="O dziecięcej złości (Dalajlama)"
-        content="Spójrz na dzieci. Oczywiście mogą się kłócić, ale ogólnie rzecz biorąc nie żywią do siebie urazy tak długo, jak robią to dorośli. Większość dorosłych uczy dzieci swoim przykładem. Ale czego oni tak naprawdę uczą, kiedy pokazują wielki uśmiech, pod którym gdzieś głęboko, w środku, kryją się negatywne uczucia? Dzieci zazwyczaj nie działają w taki sposób. Jeśli czują złość w stosunku do kogoś, wyrażają ją i wtedy to się kończy. Następnego dnia dalej bawią się z tą osobą."
+        content="Spójrz na dzieci. Oczywiście mogą się kłócić, ale ogólnie rzecz biorąc nie żywią do&nbsp;siebie urazy tak długo, jak robią to&nbsp;dorośli. Większość dorosłych uczy dzieci swoim przykładem. Ale czego oni tak naprawdę uczą, kiedy pokazują wielki uśmiech, pod którym gdzieś głęboko, w&nbsp;środku, kryją się negatywne uczucia? Dzieci zazwyczaj nie działają w&nbsp;taki sposób. Jeśli czują złość w&nbsp;stosunku do kogoś, wyrażają ją i&nbsp;wtedy to się kończy. Następnego dnia dalej bawią się z&nbsp;tą osobą."
         imgSrc={img}
       />
     </Section>

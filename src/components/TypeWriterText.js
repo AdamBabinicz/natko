@@ -101,7 +101,7 @@ const TypeWriterText = () => {
       </Title>
       <SubTitle>
         Przyroda otaczająca Natanka jest przedmiotem jego zainteresowania,
-        szczególnie lubi zdmuchiwać z mniszka lub z mlecza biały puch.
+        szczególnie lubi zdmuchiwać z mniszka lub z&nbsp;mlecza biały puch.
       </SubTitle>
       <ButtonContainer>
         <Button text="Czytaj" link="" onClick={openModal} />
@@ -110,7 +110,7 @@ const TypeWriterText = () => {
         isOpen={isOpen}
         onClose={closeModal}
         header="Woda - żywiołem Natanka"
-        content="Natanielek kocha wodę. Pomijam, że się bardzo lubi kąpać w wanience pod prysznicem, ale szczególnie dba o to, aby jego ręce były czyste. Ponadto wszelkie krany z wodą są miejscem, gdzie Natanielek chętnie przebywa: odkręca i zakręca, łapie wodę w kubki, wiaderka, wylewa na roślinki, kostkę, a często na swoje buty."
+        content="Natanielek kocha wodę. Pomijam, że&nbsp;się bardzo lubi kąpać w wanience pod prysznicem, ale szczególnie dba o&nbsp;to, aby jego ręce były czyste. Ponadto wszelkie krany z&nbsp;wodą są miejscem, gdzie Natanielek chętnie przebywa: odkręca i&nbsp;zakręca, łapie wodę w&nbsp;kubki, wiaderka, konewki i&nbsp;wylewa na roślinki, kostkę, a&nbsp;często na swoje ubranie i&nbsp;buty."
         imgSrc={img}
       />
     </>

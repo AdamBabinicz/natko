@@ -153,16 +153,16 @@ const About = () => {
         <Box>
           <Title>4 pory roku z&nbsp;Natankiem</Title>
           <SubText>
-            Natanielek spędza na powietrzu bardzo dużo czasu. Różne pory roku
-            decydują o&nbsp;tym w co jest ubrany i&nbsp;czym się zajmuje poza
-            domem. Natanek lubi bawić się w&nbsp;piaskownicy i&nbsp;jeździć na
-            rowerku oraz&nbsp;traktorku. Chętnie też uczestniczy w&nbsp;różnych
-            pracach związanych z&nbsp;pielęgnacją terenu wokół domu: podlewa
-            roślinki, zamiata, a&nbsp;zimą odśnieża (co można zobaczyć na
-            załączonych obrazkach).
+            Natanielek spędza na&nbsp;powietrzu bardzo dużo czasu. Różne pory
+            roku decydują o&nbsp;tym w&nbsp;co jest ubrany i&nbsp;czym się
+            zajmuje poza domem. Natanek lubi bawić się w&nbsp;piaskownicy
+            i&nbsp;jeździć na rowerku oraz&nbsp;traktorku. Chętnie też
+            uczestniczy w&nbsp;różnych pracach związanych z&nbsp;pielęgnacją
+            terenu wokół domu: podlewa roślinki, zamiata, a&nbsp;zimą odśnieża
+            (co można zobaczyć na&nbsp;załączonych obrazkach).
           </SubText>
           <SubTextLight>
-            Jest bystrym obserwatorem i&nbsp;reaguje na takie odgłosy jak
+            Jest bystrym obserwatorem i&nbsp;reaguje na&nbsp;takie odgłosy jak
             przelatujący samolot, przejeżdżające pojazdy typu samochód
             ciężarowy, autobus, traktor, motocykl, czy wóz konny. Dostrzega
             fruwające bociany i&nbsp;inne mniejsze ptaki, słyszy szczekające

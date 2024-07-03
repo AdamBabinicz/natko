@@ -176,7 +176,7 @@ const Navigation = () => {
         isOpen={isOpen}
         onClose={closeModal}
         header="Natanek i EURO 2024"
-        content="Natanielek zerka na telewizor i widzi grających  w piłkę zawodników. Później przed domem na trawie kopie gumową piłkę. Ja chętnie dołączam się do zabawy, ale po pewnym czasie gra przenosi się do garażu, gdzie są różne przedmioty i Natanek chce koniecznie trafiać w nie piłką."
+        content="Natanielek zerka na telewizor i&nbsp;widzi grających w&nbsp;piłkę zawodników. Później przed domem na trawniku kopie gumową piłkę. Ja chętnie dołączam się do zabawy, ale po pewnym czasie gra przenosi się do&nbsp;garażu, gdzie są różne przedmioty i&nbsp;Natanek chce koniecznie trafiać w&nbsp;nie piłką."
         imgSrc={img}
       />
     </Section>
