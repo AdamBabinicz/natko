@@ -218,17 +218,17 @@ const Roadmap = () => {
           <RoadMapItem
             addToRef={addToRefs}
             title="Znak zodiaku"
-            subtext="Bliźnięta - osoby spod tego znaku są ciekawe świata, pomysłowe, towarzyskie, dowcipne. W zanadrzu mają tysiąc pomysłów na spędzenie wolnego czasu, które odważnie wcielają w życie."
+            subtext="Bliźnięta - osoby spod tego znaku są ciekawe świata, pomysłowe, towarzyskie, dowcipne. W&nbsp;zanadrzu mają tysiąc pomysłów na&nbsp;spędzenie wolnego czasu, które odważnie wcielają w&nbsp;życie."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title=" Nataniel - zdrobnienia"
+            title=" Nataniel - zdrobnienia&nbsp;"
             subtext="Najpopularniejszymi zdrobnieniami są: Natanielek, Natanielcio, Natanieluś, Natanek, Natanuś, Nati, Natek, Natko, Nateczek, Natkuś."
           />
           <RoadMapItem
             addToRef={addToRefs}
-            title="Sławni o tym imieniu"
-            subtext="Natanael Berg (1879–1957) – szwedzki kompozytor, Nataniel Mateusz Wolf (1724–1784) – polsko-niemiecki lekarz i astronom, Bartłomiej Nataniel Wąsowski (1617–1687) – polski dramatopisarz i architekt"
+            title="Sławni o&nbsp;tym imieniu"
+            subtext="Natanael Berg (1879–1957) – szwedzki kompozytor, Nataniel Mateusz Wolf (1724–1784) – polsko-niemiecki lekarz i&nbsp;astronom, Bartłomiej Nataniel Wąsowski (1617–1687) – polski dramatopisarz i&nbsp;architekt."
           />
           {/* <RoadMapItem
             addToRef={addToRefs}
