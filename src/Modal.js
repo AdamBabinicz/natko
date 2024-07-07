@@ -65,6 +65,12 @@ const CloseButton = styled.span`
   color: ${(props) => props.theme.text};
   font-size: 1.5rem;
   cursor: pointer;
+
+  svg {
+    position: absolute;
+    margin-top: -2.2rem;
+    margin-right: -2.5rem;
+  }
 `;
 
 const Modal = ({ isOpen, onClose, header, content, imgSrc }) => {
